@@ -1,0 +1,16 @@
+{
+  "name": "vraifaux",
+  "version": "1.0.0",
+  "description": "pedagogical application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "electron-prebuilt": "^1.1.0"
+  },
+  "dependencies": {
+    "bluebird": "^3.3.5"
+  }
+}

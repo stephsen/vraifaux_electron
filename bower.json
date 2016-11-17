@@ -1,0 +1,22 @@
+{
+  "name": "vraifaux",
+  "description": "pedagogical application",
+  "main": "main.js",
+  "authors": [
+    "S Senocq"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Stephsen/VraiFaux",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7",
+    "angular": "^1.5.8"
+  }
+}
